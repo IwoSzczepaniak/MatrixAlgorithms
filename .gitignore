@@ -1,3 +1,4 @@
 /.dist
 /.ipynb_checkpoints
+/tmp
 /__pycache__
