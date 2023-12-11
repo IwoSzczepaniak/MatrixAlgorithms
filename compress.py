@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
 class Node:
     def __init__(self):
         self.rowsWithZero = 0
